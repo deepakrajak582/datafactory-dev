@@ -4,7 +4,7 @@
 		"description": "Blob to ADLS",
 		"activities": [
 			{
-				"name": "CopyDataBlobToLake",
+				"name": "CopyBlobToLakeGen2",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
